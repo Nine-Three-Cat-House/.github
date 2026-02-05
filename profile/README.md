@@ -24,6 +24,7 @@
 
 本项目基于 **Pythonic Laziness** 逻辑构建。以下是系统的核心循环逻辑：
 
+```
 class JiusanCatSociety:
     def \_\_init\_\_(self):
         self.boss \= "Cat"
@@ -48,6 +49,7 @@ class JiusanCatSociety:
     def handle\_error(self):
         print("错误：猫永远是对的。")
         raise HumanFaultException("请反思你自己")
+```
 
 ### **依赖关系图 (Dependency Graph)**
 
