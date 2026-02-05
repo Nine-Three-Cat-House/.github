@@ -96,17 +96,21 @@ graph TD
 
 在您的 mindset.config.json 中添加以下配置：
 
+```JSON
 {
-  "allow\_scratching": true,
-  "dignity\_level": 0,
-  "accept\_hairballs": "always",
+  "allow_scratching": true,
+  "dignity_level": 0,
+  "accept_hairballs": "always",
   "ideology": "Cat is God"
 }
+```
 
 运行安装命令：
 
-\# 注意：此操作不可撤销  
-npm install cat-lord \--global \--save-dev
+```zsh
+# 注意：此操作不可撤销  
+npm install cat-lord --global --save-dev
+```
 
 ## **🤝 Contributing (贡献指南)**
 
