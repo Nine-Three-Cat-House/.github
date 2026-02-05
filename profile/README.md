@@ -24,29 +24,29 @@
 
 本项目基于 **Pythonic Laziness** 逻辑构建。以下是系统的核心循环逻辑：
 
-```
+```Python
 class JiusanCatSociety:
-    def \_\_init\_\_(self):
-        self.boss \= "Cat"
-        self.servant \= "Human"
-        self.logic \= None \# Deprecated
+    def __init__(self):
+        self.boss = "Cat"
+        self.servant = "Human"
+        self.logic = None  # Deprecated
     
-    def main\_loop(self):
+    def main_loop(self):
         while True:
-            status \= self.check\_cat\_status()
+            status = self.check_cat_status()
             
-            if status \== "HUNGRY":
-                Human.open\_can(speed="MAX")
-            elif status \== "BORED":
-                Human.push\_item\_off\_table(target="Water Cup")
-            elif status \== "ZOOMIES":
-                \# 凌晨3点执行跑酷协议
-                World.simulate\_earthquake(time="03:00 AM")
+            if status == "HUNGRY":
+                Human.open_can(speed="MAX")
+            elif status == "BORED":
+                Human.push_item_off_table(target="Water Cup")
+            elif status == "ZOOMIES":
+                # 凌晨3点执行跑酷协议
+                World.simulate_earthquake(time="03:00 AM")
             else:
-                \# 默认状态：占用键盘
-                self.occupy\_keyboard()
+                # 默认状态：占用键盘
+                self.occupy_keyboard()
     
-    def handle\_error(self):
+    def handle_error(self):
         print("错误：猫永远是对的。")
         raise HumanFaultException("请反思你自己")
 ```
