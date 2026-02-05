@@ -53,6 +53,7 @@ class JiusanCatSociety:
 
 ### **依赖关系图 (Dependency Graph)**
 
+```
 graph TD
     A\[👑 猫 (Root User)\] \--\>|统治| B(人类)
     B \--\>|生产罐头| A
@@ -68,6 +69,7 @@ graph TD
     A \--\>|霸占| C
     A \--\>|追逐| D
     A \--\>|踩踏| E
+```
 
 ## **⚙️ Modules (组织模块)**
 
