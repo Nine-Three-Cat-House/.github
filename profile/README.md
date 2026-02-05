@@ -4,7 +4,7 @@
 
 **我们不改变世界，我们踩在世界上睡觉。**
 
-[📖 关于项目](https://www.google.com/search?q=%23-about) • [🚀 核心架构](https://www.google.com/search?q=%23-architecture) • [⚙️ 组织模块](https://www.google.com/search?q=%23-modules) • [📦 安装指南](https://www.google.com/search?q=%23-installation) • [🤝 贡献代码](https://www.google.com/search?q=%23-contributing)
+[📖 关于项目](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/about) • [🚀 核心架构](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/architecture) • [⚙️ 组织模块](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/module) • [📦 安装指南](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/installation) • [🤝 贡献代码](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/contribution)
 
 ## **📖 About (关于项目)**
 
@@ -118,7 +118,7 @@ npm install cat-lord \--global \--save-dev
 
 ## **📄 License**
 
-本项目采用 [**WTFPL**](https://www.google.com/search?q=http://www.wtfpl.net/) (Do What The F\*ck You Want To Public License) 修改版：
+本项目采用 [**WTFPL**](https://www.wtfpl.net/) (Do What The F\*ck You Want To Public License) 修改版：
 
 * 你可以保持沉默。
 * 但你所说的一切都将被猫咪无视。
