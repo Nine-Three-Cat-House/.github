@@ -1,5 +1,3 @@
-\<div align="center"\>
-
 # **🐱 Nine Three Cat House (九三猫舍)**
 
 **“We don't change the world, we sleep on it.”**
@@ -7,8 +5,6 @@
 **我们不改变世界，我们踩在世界上睡觉。**
 
 [📖 关于项目](https://www.google.com/search?q=%23-about) • [🚀 核心架构](https://www.google.com/search?q=%23-architecture) • [⚙️ 组织模块](https://www.google.com/search?q=%23-modules) • [📦 安装指南](https://www.google.com/search?q=%23-installation) • [🤝 贡献代码](https://www.google.com/search?q=%23-contributing)
-
-\</div\>
 
 ## **📖 About (关于项目)**
 
@@ -128,13 +124,9 @@ npm install cat-lord \--global \--save-dev
 * 但你所说的一切都将被猫咪无视。
 * 最终解释权归 **一只对世界毫不在乎的猫** 所有。
 
-\<div align="center"\>
-
 **Star ⭐ this repo if you are currently serving a cat.**
 
-\<sub\>Designed with ❤️ by Zongmin Zhang (Nagato)\</sub\>
-
-\</div\>
+Designed with ❤️ by Zongmin Zhang (Nagato)
 
 <!--
 
